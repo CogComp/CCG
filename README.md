@@ -9,6 +9,12 @@ Please find below a breaf description about our projetcs.
 | [LBJava](../lbjava/) | Learning Based Java Framework |
 | [Talen](../talen/) | A way to do annotations for NER |
 | [JWNL-Prime](../jwnl-prime/) | A refactored version of JWNL |
+| [Datastore](../cogcomp-datastore/) | A convenient wrapper for interfacing minio Java API |
+| [Arithmetic](../arithmetic/) | Arithmetic word problem solver |
+| [Saul](../saul/) | A declarative learning-based programming |
+| [ISL](../illinois-sl/) | A general-purpose Java library for performing structured learning |
+| [Logic2ILP](../Logic2ILP/) | A simple package that translate Logic to Integer Linear Programming (ILP) |
+| [OpenEval](../open-eval/) | An open source evaluation framework for developing NLP systems  |
 
 
 ## Demos
@@ -41,6 +47,8 @@ Please find below a breaf description about our projetcs.
 | [Perspectrum](../perspectrum/) | A dataset of claims, perspectives and evidences |
 | [RoomForDebate](../room_for_debate/) | Almost every NYT RFD articles since July 12, 2010 |
 | [Child Discourse SRL](../child-discourse-SRL/) | A gold standard annotations for preposition and verb sense with semantic role labels in adult-child interactions |
+| [Python CONLL](../python-conll/) | Collection of python scripts for working with CoNLL NER column files |
+| [Saul G8](../saul.g8/) | A Giter8 template for Saul applications |
 
 
 
