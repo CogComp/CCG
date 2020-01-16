@@ -13,12 +13,16 @@ Please find below a breaf description about our projetcs.
 | Repository | Description |
 |----------|------------|
 | [Apelles](../apelles/) | A CogComp-NLP web interface |
+| [Perspectroscope](../perspectroscope/) | A window to the world of differing perspectives |
+
 
 ## Publications
 
 | Repository | Description |
 |----------|------------|
-| [BenchmarkingZeroShot](../BenchmarkingZeroShot/) | EMNLP 2019 Benchmarking zero-shot text classification: datasets, evaluation and entailment approach |
+| [BenchmarkingZeroShot](../BenchmarkingZeroShot/) | Benchmarking zero-shot text classification: datasets, evaluation and entailment approach (EMNLP 2019) |
+| [Summary-Cloze](../summary-cloze/) | Summary Cloze: A New Task for Content Selection in Topic-Focused Summarization |
+
 
 ## Resources
 
