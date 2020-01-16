@@ -7,5 +7,9 @@ Please find below a breaf description about our projetcs.
 
 | Repository | Description |
 |----------|------------|
-| [CogComp-NLP](../cogcomp-nlp/) | This project collects a number of core libraries for Natural Language Processing (NLP) developed by Cognitive Computation Group |
+| [CogComp-NLP](../cogcomp-nlp/) | Core libraries for Natural Language Processing (NLP) |
+
+| [CogComp-NLPy](../cogcomp-nlpy/) | Python version of our core NLP tools |
+
+
 
