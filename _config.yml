@@ -3,7 +3,7 @@ topnav_title: CCG
 homepage_title: Cognitive Computation Group
 site_title: CogComp
 company_name: CogComp
-footer_image_location: /common_images/logo.png
+footer_image_location: ccg.png
 # variables
 
 defaults:
