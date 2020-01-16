@@ -1,5 +1,3 @@
-# CogComp 
-
 Please find below a breaf description about our projetcs.
 
 ## Software
@@ -15,6 +13,12 @@ Please find below a breaf description about our projetcs.
 | Repository | Description |
 |----------|------------|
 | [Apelles](../apelles/) | A CogComp-NLP web interface |
+
+## Publications
+
+| Repository | Description |
+|----------|------------|
+| [BenchmarkingZeroShot](../BenchmarkingZeroShot/) | EMNLP 2019 Benchmarking zero-shot text classification: datasets, evaluation and entailment approach |
 
 ## Resources
 
