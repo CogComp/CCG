@@ -4,8 +4,8 @@ Please find below a breaf description about our projetcs.
 
 | Repository | Description |
 |----------|------------|
-| [CogComp-NLP](../cogcomp-nlp/) | Core libraries for Natural Language Processing (NLP) |
-| [CogComp-NLPy](../cogcomp-nlpy/) | Python version of our core NLP tools |
+| [CogCompNLP](../cogcomp-nlp/) | Core libraries for Natural Language Processing (NLP) |
+| [CogCompNLPy](../cogcomp-nlpy/) | Python version of our core NLP tools |
 | [LBJava](../lbjava/) | Learning Based Java Framework |
 | [Talen](../talen/) | A way to do annotations for NER |
 | [JWNL-Prime](../jwnl-prime/) | A refactored version of JWNL |
