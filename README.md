@@ -1,5 +1,4 @@
-# Welcome to the CogComp 
-The Cognitive Computation Group is led by Prof Dan Roth, Department of Computer and Information Science, University of Pennsylvania.
+# CogComp 
 
 Please find below a breaf description about our projetcs.
 
