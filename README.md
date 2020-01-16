@@ -49,6 +49,7 @@ Please find below a breaf description about our projetcs.
 | [Child Discourse SRL](../child-discourse-SRL/) | A gold standard annotations for preposition and verb sense with semantic role labels in adult-child interactions |
 | [Python CONLL](../python-conll/) | Collection of python scripts for working with CoNLL NER column files |
 | [Saul G8](../saul.g8/) | A Giter8 template for Saul applications |
+| [ISL Examples](../illinois-sl-examples/) | Implementing simple learning problems using Illinois-SL |
 
 
 
