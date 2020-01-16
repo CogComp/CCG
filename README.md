@@ -1,0 +1,2 @@
+# CCG
+Cognitive Computation Group
