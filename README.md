@@ -1,4 +1,4 @@
-Please find below a breaf description about our projetcs.
+Please find below a brief description about our projetcs.
 
 ## Software
 
